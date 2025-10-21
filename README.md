@@ -37,52 +37,16 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img 
-      alt="TypeScript"
-      title="TypeScript" 
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
-      alt="React"
-      title="React" 
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      alt="Next.js" 
-      title="Next.js"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-  />
-  <img 
       alt="Bootstrap"
       title="Bootstrap" 
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
   <img 
-      alt="Tailwind CSS" 
-      title="Tailwind CSS"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-  />
-  <img 
-      alt="SASS" 
-      title="SASS"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-  />
-  <img 
       alt="PHP" 
       title="PHP"
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
-  <img 
-      alt="Laravel" 
-      title="Laravel"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
   />
   <img 
       alt="JQuery" 
@@ -148,7 +112,7 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
 Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" >
+  <a href="https://linkedin.com/in/rennan-sena-854761377" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:Rennansenna10@gmail.com">
@@ -159,4 +123,4 @@ Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade pa
 
 ---
 
-<p align="center">Feito com ❤️ por Rennan Sena</p>
+<p align="center">Feito por Rennan Sena</p>
