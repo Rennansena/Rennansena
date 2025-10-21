@@ -1,6 +1,6 @@
 ### Olá! 👋 Sobre Mim
 
-Sou Rennan Sena, desenvolvedor(a) FullStack de 23 anos, com raízes no Nordeste brasileiro. Minha paixão pela tecnologia me impulsiona a estar sempre atualizado(a) e em constante aprendizado, buscando as melhores soluções e me aprimorando continuamente nas últimas tendências do mercado.
+Sou Rennan Sena, desenvolvedor FullStack de 23 anos, com raízes no Nordeste brasileiro. Minha paixão pela tecnologia me impulsiona a estar sempre atualizado(a) e em constante aprendizado, buscando as melhores soluções e me aprimorando continuamente nas últimas tendências do mercado.
 
 Minha jornada profissional e acadêmica inclui:
 -   **Formação Técnica:** Desenvolvimento de Sistemas pelo SENAI (Concluído em 21/06/2022).
