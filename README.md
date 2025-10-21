@@ -123,4 +123,4 @@ Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade pa
 
 ---
 
-<p align="center">Feito com ❤️ por Rennan Sena</p>
+<p align="center">Feito por Rennan Sena</p>
