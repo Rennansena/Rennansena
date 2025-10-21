@@ -42,48 +42,23 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
   />
-  <img 
-      alt="React"
-      title="React" 
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      alt="Next.js" 
-      title="Next.js"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-  />
+
+  
   <img 
       alt="Bootstrap"
       title="Bootstrap" 
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-  <img 
-      alt="Tailwind CSS" 
-      title="Tailwind CSS"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-  />
-  <img 
-      alt="SASS" 
-      title="SASS"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-  />
+
+ 
   <img 
       alt="PHP" 
       title="PHP"
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
   />
-  <img 
-      alt="Laravel" 
-      title="Laravel"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-  />
+ 
   <img 
       alt="JQuery" 
       title="JQuery"
