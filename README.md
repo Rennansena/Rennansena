@@ -1,16 +1,162 @@
-## Hi there 👋
+### Olá! 👋 Sobre Mim
 
-<!--
-**Rennansena/Rennansena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Rennan Sena, desenvolvedor(a) FullStack de 23 anos, com raízes no Nordeste brasileiro. Minha paixão pela tecnologia me impulsiona a estar sempre atualizado(a) e em constante aprendizado, buscando as melhores soluções e me aprimorando continuamente nas últimas tendências do mercado.
 
-Here are some ideas to get you started:
+Minha jornada profissional e acadêmica inclui:
+-   **Formação Técnica:** Desenvolvimento de Sistemas pelo SENAI (Concluído em 21/06/2022).
+-   **Graduação:** Atualmente cursando o 5º período de Análise e Desenvolvimento de Sistemas na Estácio (Previsão de formatura em dezembro de 2025.2).
+-   **Experiência:**
+    *   Atuação na **Alares Internet** (desde 01/2023) na execução e controle de projetos de sistemas de informação, além de desenvolver, testar, implantar e documentar programas de computador.
+    *   Experiência na **Enel** (desde 10/2024), lidando com a gestão eficiente de processos de faturamento e cobrança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho um alto senso de responsabilidade e uma grande vontade de aprender e progredir na carreira profissional.
+
+---
+
+### 🚀 Minhas Linguagens e Tecnologias
+
+Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, linguagens que utilizo para desenvolver soluções robustas e eficientes. Tenho também **boa proficiência em Python e PHP**, aplicadas tanto no backend quanto em scripts e automações. Além disso, domino o básico de **HTML e CSS** para construção de interfaces web, complementando minhas habilidades com diversas outras tecnologias para desenvolvimento.
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: start;">
+  <img 
+      alt="HTML"
+      title="HTML5" 
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+  />
+  <img 
+      alt="CSS" 
+      title="CSS3"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  />
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="TypeScript"
+      title="TypeScript" 
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+      alt="React"
+      title="React" 
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+  />
+  <img 
+      alt="Next.js" 
+      title="Next.js"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+  />
+  <img 
+      alt="Bootstrap"
+      title="Bootstrap" 
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+  />
+  <img 
+      alt="Tailwind CSS" 
+      title="Tailwind CSS"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+  />
+  <img 
+      alt="SASS" 
+      title="SASS"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+  />
+  <img 
+      alt="PHP" 
+      title="PHP"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+  />
+  <img 
+      alt="Laravel" 
+      title="Laravel"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+  />
+  <img 
+      alt="JQuery" 
+      title="JQuery"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+  />
+  <img 
+      alt="Python" 
+      title="Python"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+      alt="Java" 
+      title="Java"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+  />
+  <img 
+      alt="SQL" 
+      title="SQL"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  />
+  <img 
+      alt="Git" 
+      title="Git"
+      width="40px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    style="margin-right: 10px; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    alt="Top Languages" 
+    height="200" 
+    style="margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+  />
+  <img 
+    alt="GitHub Streak" 
+    height="200" 
+    style="margin-top: 10px;" 
+    src="https://github-readme-streak-stats.demolab.com/?user=Larissakich&theme=tokyonight&hide_border=true&locale=pt_BR" 
+  />
+</div>
+
+---
+
+### 🤝 Conecte-se Comigo!
+
+Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:Rennansenna10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <!-- Adicione outras redes sociais se desejar, como Instagram, Twitter, etc. -->
+</p>
+
+---
+
+<p align="center">Feito com ❤️ por Rennan Sena</p>
