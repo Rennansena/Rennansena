@@ -112,7 +112,7 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
 Estou sempre aberto(a) a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" >
+  <a href="https://linkedin.com/in/rennan-sena-854761377" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:Rennansenna10@gmail.com">
