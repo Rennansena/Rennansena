@@ -89,19 +89,19 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
     alt="GitHub Stats" 
     height="200" 
     style="margin-right: 10px; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Rennansena&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
     alt="Top Languages" 
     height="200" 
     style="margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennansena&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
   <img 
     alt="GitHub Streak" 
     height="200" 
     style="margin-top: 10px;" 
-    src="https://github-readme-streak-stats.demolab.com/?user=Larissakich&theme=tokyonight&hide_border=true&locale=pt_BR" 
+    src="https://github-readme-streak-stats.demolab.com/?user=Rennansena&theme=tokyonight&hide_border=true&locale=pt_BR" 
   />
 </div>
 
