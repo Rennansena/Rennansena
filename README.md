@@ -42,24 +42,14 @@ Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, lingua
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-  <img 
-      alt="PHP" 
-      title="PHP"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-  />
+
   <img 
       alt="JQuery" 
       title="JQuery"
       width="40px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
   />
-  <img 
-      alt="Python" 
-      title="Python"
-      width="40px" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-  />
+   
   <img 
       alt="Java" 
       title="Java"
