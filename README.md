@@ -15,7 +15,7 @@ Tenho um alto senso de responsabilidade e uma grande vontade de aprender e progr
 
 ### 🚀 Minhas Linguagens e Tecnologias
 
-Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, linguagens que utilizo para desenvolver soluções robustas e eficientes. Tenho também **boa proficiência em Python e PHP**, aplicadas tanto no backend quanto em scripts e automações. Além disso, domino o básico de **HTML e CSS** para construção de interfaces web, complementando minhas habilidades com diversas outras tecnologias para desenvolvimento.
+Possuo um **forte domínio em SQL** e **sólidos conhecimentos em Java**, linguagens que utilizo para desenvolver soluções robustas e eficientes. Além disso, domino o básico de **HTML e CSS** para construção de interfaces web, complementando minhas habilidades com diversas outras tecnologias para desenvolvimento.
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: start;">
   <img 
